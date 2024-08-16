@@ -1,0 +1,22 @@
+.section{
+    margin: 100px 350px;
+}
+
+h1{
+    font-size: 100px;
+    text-align: center;
+    color: white;
+}
+
+.Now{
+    border:1px solid transparent;
+    font-size: 100px;
+    padding: 50px;
+    background-color: rgb(218, 214, 214);
+    color: black;
+    border-radius: 10px;
+    -webkit-border-radius: 10px;
+    -moz-border-radius: 10px;
+    -ms-border-radius: 10px;
+    -o-border-radius: 10px;
+}
